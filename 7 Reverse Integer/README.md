@@ -2,8 +2,8 @@
 *Reverse digits of an integer.*
 
 Example1: x = 123, return 321<br>
-Example2: x = -123, return -321<br>
-
+Example2: x = -123, return -321
+<br><br>
 
 ## Solution
 ####1. Change Number to Integer Array
